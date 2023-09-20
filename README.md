@@ -36,8 +36,8 @@ To deploy this project run
 ## Features
 
 - Responsive and beautiful UI
-- With GIF of exercises 
-- Detail description of exercises and Youtube videos
+- Similar to figma file 
+- Created with mordern technologies 
 
 
 ## Run Locally
