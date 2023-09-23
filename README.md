@@ -1,5 +1,5 @@
 
-# Resturent Landing Page 
+# Restaurant Landing Page 
 ### [Live Site](http://resturent-menu.surge.sh/)
 
 ### [Figma File](https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma)
